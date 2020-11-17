@@ -1,9 +1,3 @@
-### REFERENCES:
-# Time Series code from: http://www.quantatrisk.com/2017/03/20/download-crypto-currency-time-series-portfolio-python/
-# Time Series Shifting: https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/
-# SVM Code: https://github.com/dataventures/spring2017/blob/master/3/classification_preview.ipynb
-# Logistic Regression: http://www.data-mania.com/blog/logistic-regression-example-in-python/
-
 # Author: Bryan Lee
 # Date: 10/19/17
 
